@@ -257,7 +257,20 @@
         </arguments>
     </Operation>
     
-    
+    <!-- Menus-->
+    <Operation Class="XmlExtensions.ApplyPatch">
+        <patchName>carnap2TPatchesModPatch</patchName>
+        <arguments>
+            <li>DocWorldDesignationCategory</li>
+            <li>Core</li>
+            <li>Menus</li>
+            <li>Designation Category combination</li>
+            <li>Unifies and cleans up modded-in designation categories, and adds a few new ones.</li>
+            <li>DocWorldDesignationCategoryTweaks</li>
+            <li>true</li>
+        </arguments>
+    </Operation>
+
     <!-- Settings -->
     
     <!-- Fun -->

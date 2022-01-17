@@ -32,6 +32,13 @@
     <Operation Class="XmlExtensions.ApplyPatch">
         <patchName>carnap2TPatches_CreateTab</patchName>
         <arguments>
+            <li>Menus</li>
+        </arguments>
+    </Operation>
+
+    <Operation Class="XmlExtensions.ApplyPatch">
+        <patchName>carnap2TPatches_CreateTab</patchName>
+        <arguments>
             <li>Fun</li>
         </arguments>
     </Operation>
